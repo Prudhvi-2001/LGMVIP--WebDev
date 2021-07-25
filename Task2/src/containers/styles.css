@@ -1,0 +1,33 @@
+.app{
+    margin-left: 700px;
+    margin-top: 300px;
+  }
+  
+  .copy{
+    margin-left: -500px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    font-size: 18px;
+  }
+  .list{
+    padding: 10px;
+    margin-left: 470px;
+   
+
+  }
+  .cardlist:hover{   
+    background:blue;
+    color: aqua;
+
+
+  }
+  .data{
+    text-align: center;
+  }
+  .image:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+
+  }
+  
